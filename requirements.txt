@@ -1,0 +1,7 @@
+tensorflow
+keras
+sklearn
+pandas
+numpy
+seaborn
+visualkeras
