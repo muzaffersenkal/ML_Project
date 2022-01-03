@@ -5,3 +5,5 @@ pandas
 numpy
 seaborn
 visualkeras
+streamlit
+python-dotenv

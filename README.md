@@ -1,5 +1,7 @@
 ## About The Project
 
+![App](graphs/demo.gif)
+
 Any technologies that can give more efficient, or faster analysis are very valuable. In recent decades, scientist and software developers are working together to improve healthcare technologies. Artificial Intelligence is playing huge role in these studies. Many studies have already surpassed human achievement, and many doctors use these systems as a decision mechanism, or diagnose the disease. Especially in cancer diagnosis or early diagnosis, artificial intelligence models provide great benefits to doctors in terms of speed and accuracy. Therefore, project objective is to develop machine learning models that can classify correctly skin lessions. This project will be carried out using machine learning methods and will be evaluated using common model evaluation techniques.
 
 
@@ -51,8 +53,6 @@ This is an example of how to list things you need to use the software and how to
 
 
 
-
-
 ## Usage
 
 After you enter the second line of code, you'll see a series of automated messages as ProjectTemplate goes about doing its work. This work involves:
@@ -62,6 +62,22 @@ After you enter the second line of code, you'll see a series of automated messag
 -   Analysis are in the `src` directory.
 -   Datasets path  `data`
 -   Figures and graphs are in `graphs` directory.
+
+## Demo Page / User Interface
+
+
+1.  Define your model path in env variables. 
+
+    ``` sh
+    vim app/.env
+
+    MODEL_PATH=your_model_path
+    ```
+2.  Run Demo App
+
+    ``` sh
+    streamlit run app/main.py
+    ```
 
 
 ## Contributing
