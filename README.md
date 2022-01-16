@@ -53,7 +53,7 @@ This is an example of how to list things you need to use the software and how to
 
 
 
-## Usage
+## Folder Structure
 
 After you enter the second line of code, you'll see a series of automated messages as ProjectTemplate goes about doing its work. This work involves:
 
@@ -62,11 +62,15 @@ After you enter the second line of code, you'll see a series of automated messag
 -   Analysis are in the `src` directory.
 -   Datasets path  `data`
 -   Figures and graphs are in `graphs` directory.
+-   Logs are in `logs` directory.
 
 ## Demo Page / User Interface
 
 
-1.  Define your model path in env variables. 
+1.  Download model weights.  [Link](https://drive.google.com/file/d/1lH8zOWf4nvVilVR-k6_4u4y28a0c-94S/view?usp=sharing)
+
+
+2.  Define your model path in env variables. 
 
     ``` sh
     vim app/.env

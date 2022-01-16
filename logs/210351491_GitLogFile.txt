@@ -1,0 +1,77 @@
+commit af3d54abca37f0aefad132520d428883a6a11ccb
+Author: Muzaffer Şenkal <muzaffer727@hotmail.com>
+Date:   Tue Jan 4 20:54:19 2022 +0000
+
+    reports pdf files added
+
+commit e02d82d86c394ae2247d88ed7a7873bba5ae23f6
+Author: Muzaffer Şenkal <muzaffer727@hotmail.com>
+Date:   Tue Jan 4 19:16:46 2022 +0000
+
+    structured abstract report
+
+commit 8217166c650c448122b83264516123fe835388a3
+Author: Muzaffer Şenkal <muzaffer727@hotmail.com>
+Date:   Mon Jan 3 20:10:45 2022 +0000
+
+    report added
+
+commit ff860b0b6ca9402d68b050a8ffb2b5dfa006d9be
+Author: Muzaffer Şenkal <muzaffer727@hotmail.com>
+Date:   Mon Jan 3 15:00:28 2022 +0000
+
+    demo gif speed changed
+
+commit 8ee01dbdb225bc921b63d8d5220159ba92060db1
+Author: Muzaffer Şenkal <muzaffer727@hotmail.com>
+Date:   Mon Jan 3 14:54:22 2022 +0000
+
+    deployment, demo page created
+
+commit 7636c43c01928dc9af716d16ebfc5e8a4e0b9ac7
+Author: Muzaffer Şenkal <muzaffer727@hotmail.com>
+Date:   Sun Jan 2 21:13:47 2022 +0000
+
+    readme and requirements file added
+
+commit 7849d4ee6418abff8972c836ed71cb74764700bf
+Author: Muzaffer Şenkal <muzaffer727@hotmail.com>
+Date:   Sun Jan 2 18:38:11 2022 +0000
+
+    model evaluation
+
+commit 69e36fca5078525a7f02a81b994020da4bb4a9e8
+Author: Muzaffer Şenkal <muzaffer727@hotmail.com>
+Date:   Sun Jan 2 15:57:17 2022 +0000
+
+    transfer learning fine tuning
+
+commit 0144c43a189d330b280d78821c3e7f279234344e
+Author: Muzaffer Şenkal <muzaffer727@hotmail.com>
+Date:   Thu Dec 30 22:42:38 2021 +0000
+
+    transfer learning has been applied
+
+commit 528cbeb867ab53a5ea9650deabd7436b1e0e8292
+Author: Muzaffer Şenkal <muzaffer727@hotmail.com>
+Date:   Wed Dec 29 16:30:27 2021 +0000
+
+    Custom CNN model trained
+
+commit 5a85fd0b448294ba7d7003832e8b24c1dd21ce47
+Author: Muzaffer Şenkal <muzaffer727@hotmail.com>
+Date:   Mon Dec 20 19:42:43 2021 +0000
+
+    data preparation step has been done
+
+commit e5b11942c532a9618bfd8bb07af4a807ef4cf95d
+Author: Muzaffer Şenkal <muzaffer727@hotmail.com>
+Date:   Sun Dec 19 22:30:29 2021 +0000
+
+    data understanding, exploratory data analysis
+
+commit a79dc39ebc933d0ee9c83e953f440e162b796f1d
+Author: Muzaffer Şenkal <muzaffer727@hotmail.com>
+Date:   Fri Dec 17 20:01:44 2021 +0000
+
+    business understanding

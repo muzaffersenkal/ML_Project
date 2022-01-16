@@ -331,6 +331,14 @@ Deployment is one of the most important stages. It is not possible for the study
 include_graphics(paste0(getwd(),"/graphs/demo.png")) 
 ```
 
+# Future Implications 
+The future implications on the work of this area are the creation of decision support mechanisms by integrating such studies into cloud systems. Having deep learning methods integrated into hospital systems such as PACS / HL7 is important for future diseases and epidemics.
+
+# Personal Reflection
+
+The CRISP-DM data mining approach and Git were used to complete this project, which resulted in a high level of efficiency and repeatability. Also, versioning has greatly benefited deep learning projects. I tried to integrate the ProjectTemplate tool, which was used in previous data mining studies, into this project. But I noticed that it was lacking in model artifacts. For example, as in MLflow framework[11], model parameters, model weights and metadata can be kept in a structured structure.On the other hand, existing local computers are not sufficient for computer vision projects as deep learning models require large computational costs. For this, cloud compute services are needed to a great extent. A great deal of time was saved in model training using GPU machines from Google's Colab service. Finally, it is not correct to run deep learning models only once and compare their success. Many parameters should be changed and its success should be compared again and again.
+
+
 ## References
 
 [1] Jaleel, J. A., Salim, S., & Aswin, R. B. (2013). Computer Aided Detection of Skin Cancer. 2013 International Conference on Circuits, Power and Computing Technologies (ICCPCT). https://doi.org/10.1109/iccpct.2013.6528879
@@ -352,7 +360,9 @@ include_graphics(paste0(getwd(),"/graphs/demo.png"))
 
 [9] Kingma, D., & Lei Ba, J. (2017). ADAM: A METHOD FOR STOCHASTIC OPTIMIZATION. https://arxiv.org/pdf/1412.6980.pdf
 
-[10] Streamlit • The fastest way to build and share data apps. (2013). Streamlit.io. https://streamlit.io/
+[10] Streamlit  The fastest way to build and share data apps. (2013). Streamlit.io. https://streamlit.io/
+
+[11] MLflow - A platform for the machine learning lifecycle. (2021). MLflow. https://www.mlflow.org/
 
 
 
